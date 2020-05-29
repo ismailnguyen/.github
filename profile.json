@@ -1,0 +1,18 @@
+{
+  "user": {
+    "name": "Ismaïl",
+    "blog": "https://www.ismailnguyen.com/",
+    "company": "@lelionvert",
+    "location": "{ `lat`: 48.86, `lon`: 2.33 }",
+    "hireable": true,
+    "bio": "Repository under WTFPL licence. (See more at http://www.wtfpl.net/)"
+  },
+  "pinned": [
+    "https://github.com/ismailnguyen/Ncrafts-PWA",
+    "https://github.com/ismailnguyen/TryEat",
+    "https://github.com/ismailnguyen/AgileFrance-PWA",
+    "https://github.com/lelionvert/blog-core",
+    "https://github.com/agile-france/site-Conf-Agile-France",
+    "https://github.com/ncraftsconf/training"
+  ]
+}
